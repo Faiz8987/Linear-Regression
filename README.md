@@ -1,2 +1,2 @@
-# covid-data-analysis
-I analysis the data of pendmic time with Linear regression
+# Faizan Data science
+here are some projects whic is done by me .
